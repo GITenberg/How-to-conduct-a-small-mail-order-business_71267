@@ -1,5 +1,8 @@
 _repo: How-to-conduct-a-small-mail-order-business_71267
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71267-h/images/cover.jpg
 creator:
   author:
     agent_name: Skinner, W. E. (William E.)
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '56146'
     url: http://www.gutenberg.org/2009/agents/56146
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71267#How-to-conduct-a-small-mail-order-business
 gutenberg_issued: '2023-07-24'
 identifiers:
   gutenberg: '71267'
